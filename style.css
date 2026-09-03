@@ -4,7 +4,8 @@ body{
     font-size: 25px;
     margin: 0;
     padding: 20px;
-    background: linear-gradient(135deg, #0f0c20 0%, #1e1e2f 50%, #2a2a40 100%);
+    background: linear-gradient(135deg, #0f0c20 0%, #1e1e2f 50%, #2a2a40 100%);/*A linear color gradient from one direction to another,
+                                                                                without the need for an image file.*/
 }
 
 .container{
